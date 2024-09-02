@@ -1,0 +1,9 @@
+
+    body{
+        background: #d81656;
+        background: linear-gradient(to right, #8f8a85, #dddbd1);
+    }
+    .portada{
+        background-image: url(img/Portada.jpeg);
+        background-position: center center;
+    }
